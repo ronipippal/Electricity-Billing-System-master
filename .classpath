@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Roni Pippal/.p2/pool/plugins/org.eclipse.jface_3.22.100.v20210126-0831.jar" sourcepath="C:/Users/Roni Pippal/.p2/pool/plugins/org.eclipse.jface_3.22.100.v20210126-0831.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
